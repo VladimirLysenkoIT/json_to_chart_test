@@ -1,0 +1,26 @@
+.chart_filter_wrap{
+	background-color: #3a4660;
+	color: #fff;
+	width: 500px;
+	padding: 20px;
+	margin: 20px 10px;
+	overflow: hidden;
+}
+
+.filter_select_wrap{
+	width: 450px;
+	/*float: left;*/
+}
+
+.filter_button{
+	display: inline-block;
+	float: right;
+	padding: 10px 45px;
+	margin-top: 20px;
+	background: #ed8a63;
+	color: #fff;
+	cursor: pointer;
+}
+
+.button_wrap{
+}
